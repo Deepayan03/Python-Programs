@@ -1,0 +1,1 @@
+{"name":"Local: Peterson","url":"d:\\Python programs\\Peterson.py","tests":[{"id":1683992576488,"input":"145","output":"True"},{"id":1683992585587,"input":"143","output":"False"},{"id":1683992599835,"input":"40585","output":"True"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Python programs\\Peterson.py","group":"local","local":true}
